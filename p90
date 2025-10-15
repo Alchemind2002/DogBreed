@@ -132,4 +132,4 @@ sub$breed_2 <- cluster_prob$V2
 sub$breed_4 <- cluster_prob$V3
 sub$breed_3 <- cluster_prob$V4
 
-fwrite(sub,"~/Desktop/p90.csv")
+fwrite(sub,"~/Desktop/p90.csv") #save
